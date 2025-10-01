@@ -3,7 +3,7 @@ package org.kiennguyenfpt.j1sp0071.service;
 import org.kiennguyenfpt.j1sp0071.constants.TaskType;
 import org.kiennguyenfpt.j1sp0071.dto.TaskDto;
 import org.kiennguyenfpt.j1sp0071.model.Task;
-import org.kiennguyenfpt.j1sp0071.model.Message;
+import org.kiennguyenfpt.j1sp0071.constants.Message;
 import org.kiennguyenfpt.j1sp0071.util.DateTimeUtil;
 import org.springframework.stereotype.Service;
 

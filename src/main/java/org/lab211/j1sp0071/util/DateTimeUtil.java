@@ -1,4 +1,4 @@
-package org.kiennguyenfpt.j1sp0071.util;
+package org.lab211.j1sp0071.util;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

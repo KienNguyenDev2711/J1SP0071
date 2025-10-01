@@ -1,4 +1,4 @@
-package org.kiennguyenfpt.j1sp0071.dto;
+package org.lab211.j1sp0071.dto;
 
 /**
  * Data Transfer Object for presenting task data in the view layer.

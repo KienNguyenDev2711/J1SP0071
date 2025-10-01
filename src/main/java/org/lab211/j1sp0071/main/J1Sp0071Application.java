@@ -1,7 +1,7 @@
-package org.kiennguyenfpt.j1sp0071.main;
+package org.lab211.j1sp0071.main;
 
-import org.kiennguyenfpt.j1sp0071.service.TaskServiceImpl;
-import org.kiennguyenfpt.j1sp0071.view.ConsoleView;
+import org.lab211.j1sp0071.service.TaskServiceImpl;
+import org.lab211.j1sp0071.view.ConsoleView;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication

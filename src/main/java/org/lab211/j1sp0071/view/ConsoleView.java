@@ -1,7 +1,7 @@
-package org.kiennguyenfpt.j1sp0071.view;
+package org.lab211.j1sp0071.view;
 
-import org.kiennguyenfpt.j1sp0071.dto.TaskDto;
-import org.kiennguyenfpt.j1sp0071.service.TaskService;
+import org.lab211.j1sp0071.dto.TaskDto;
+import org.lab211.j1sp0071.service.TaskService;
 
 import java.util.List;
 import java.util.Scanner;

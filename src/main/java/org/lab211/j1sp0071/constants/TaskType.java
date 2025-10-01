@@ -1,4 +1,4 @@
-package org.kiennguyenfpt.j1sp0071.constants;
+package org.lab211.j1sp0071.constants;
 
 /**
  * Fixed set of task types with predefined IDs and display names.

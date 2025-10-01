@@ -1,6 +1,6 @@
-package org.kiennguyenfpt.j1sp0071.service;
+package org.lab211.j1sp0071.service;
 
-import org.kiennguyenfpt.j1sp0071.dto.TaskDto;
+import org.lab211.j1sp0071.dto.TaskDto;
 
 import java.util.List;
 

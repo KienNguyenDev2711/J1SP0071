@@ -1,4 +1,4 @@
-package org.kiennguyenfpt.j1sp0071.constants;
+package org.lab211.j1sp0071.constants;
 
 /**
  * Centralized user-facing and validation messages.
